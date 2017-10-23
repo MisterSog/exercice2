@@ -11,6 +11,7 @@ import java.util.Scanner;
 /**
  *
  * @author gsaintou
+ * Réalisé le 18/10/2017
  */
 public class ConversionTemp {
     
